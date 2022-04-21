@@ -4,8 +4,6 @@ a = float(input('Введите первое число: '))
 operator_sign = input('Введите знак операции: ')
 b = float(input('Введите второе число: '))
 
-method = get_method.get_method(operator_sign)  # вызываем метод get_method из модуля get_method
+method = get_method.get_method(operator_sign)  # Будет ошибка, т.к. у namespace package нет информации о всех модулях
 result = method(a, b)
 print(result)
-
-print(add.add(1, 2)) # пример вызова метода из модуля импортированного через *
