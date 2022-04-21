@@ -1,5 +1,4 @@
-from methods import get_method, plus
-
+from methods.get_method import get_method  # импортируем из модуля methods.get_method функцию get_method
 
 a = float(input('Введите первое число: '))
 operator_sign = input('Введите знак операции: ')

@@ -1,24 +1,24 @@
-def plus(a, b):
+def add(a, b):
     return a + b
 
 
-def minus(a, b):
+def sub(a, b):
     return a - b
 
 
-def multiple(a, b):
+def mul(a, b):
     return a * b
 
 
 def get_method(operator):
     method = None
     if operator == '+':
-        method = plus
+        method = add
     elif operator == '-':
-        method = minus
+        method = sub
     elif operator == '*':
-        method = multiple
+        method = mul
 
     if method is None:
-        raise Exception('Метод не найден')
+        raise ValueError('Метод не найден')
     return method
