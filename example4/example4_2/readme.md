@@ -6,5 +6,5 @@ Python позволяет для каждого из проектов созда
 Папка venv обычно лежит в gitignor-е
 Далее необходимо активировать виртуальное окружение(`venv\Scripts\activate` в папке проекта для Windows)
 Далее переходим в папку `functions` и повторно используем `pip install .`
-После этого пакет `test_functions` появится в `projectA/venv/Lib/site-packages`
+После этого пакет `functions` появится в `projectA/venv/Lib/site-packages`
 Отключить виртуальное окружение можно командой `deactivate`

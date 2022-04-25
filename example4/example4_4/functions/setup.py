@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="functions",
-    version="0.2",
+    version="0.3",
     author="mishka251",
     author_email="mishkabelka251@gmail.com",
     description="Test Calculator functions",

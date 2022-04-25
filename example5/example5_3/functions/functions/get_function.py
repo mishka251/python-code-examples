@@ -1,7 +1,7 @@
-from test_functions.add import add # пример относительного импорта
-from test_functions.sub import sub # пример абсолютного импорта
-from test_functions.mul import mul
-from test_functions.div import div
+from functions.add import add # пример относительного импорта
+from functions.sub import sub # пример абсолютного импорта
+from functions.mul import mul
+from functions.div import div
 
 
 def get_function(operator):

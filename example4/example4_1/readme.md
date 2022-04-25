@@ -5,7 +5,7 @@
 Получившаяся структура
 
     functions/
-        test_functions/   <- эта папка будет установлена как библиотека
+        functions/   <- эта папка будет установлена как библиотека
             __init__.py
             add.py
             get_function.py

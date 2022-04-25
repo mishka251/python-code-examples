@@ -1,5 +1,5 @@
-from test_functions.get_function_extra import get_function_extra
-from test_functions.pow import pow
+from functions.get_function_extra import get_function_extra
+from functions.pow import pow
 
 a = float(input('Введите первое число: '))
 operator_sign = input('Введите знак операции: ')

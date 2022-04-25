@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="functions",
+    name="functions_extra",
     version="0.2",
     author="mishka251",
     author_email="mishkabelka251@gmail.com",

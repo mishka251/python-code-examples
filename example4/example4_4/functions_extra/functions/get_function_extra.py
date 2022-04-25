@@ -1,5 +1,5 @@
-from test_functions.get_function import get_function
-from test_functions.pow import pow
+from functions.get_function import get_function
+from functions.pow import pow
 
 
 def get_function_extra(operator):
