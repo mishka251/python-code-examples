@@ -41,8 +41,6 @@ M
 example1/example1_5/readme.md,b\6\b6f79a66fc6ca119202d445ecbe93b67023e21cd
 K
 example1/example1_5/main.py,f\6\f6e66077f9e9f95055af31bd37a98e224a457564
-B
-example1/readme.md,e\0\e0494d6ca41636e627831637d3a342ad2e34b16c
 R
 "example2/example2_3/methods/div.py,d\9\d9e460272c41f347b49a95660033f642ee0f04d3
 N
@@ -75,16 +73,12 @@ M
 example1/example1_3/readme.md,4\6\4631703b772616d0389f8f5a0cfb896d492a045e
 K
 example1/example1_3/main.py,1\1\1131c033e0ca5d0c39d5acb4d1d67890a95b2668
-B
-example0/readme.md,9\6\96c2484665f8e5ff236bb87e8cf6ec5c446c1999
 R
 "example2/example2_0/methods/sub.py,5\7\57dc9282fb9ece96646b95844342c1033bda725e
 Y
 )example2/example2_0/methods/get_method.py,3\b\3b5146b143e44249842af77d11203d5d89e9a1af
 K
 example1/example1_0/main.py,c\3\c35b6d61004d862a644ce24aa596ac46bdcc8328
-@
-example0/main.py,b\1\b19c1ddc6058e083138f5c1d95becec59b319b87
 N
 example1/example1_0/methods.py,7\2\721fb220d44dfbad020f7a05632fbd9f7b147de0
 Y
@@ -153,8 +147,6 @@ W
 'example3/example3_4/methods/__init__.py,5\8\5802969213b2b66d13f26a967e6515124c58e043
 M
 example3/example3_4/readme.md,d\2\d2bfb2fb4aeb97b90c2816575b9df7d2bf817e92
-K
-example3/example3_5/main.py,8\9\897dc101a847e163056c6b0d111db54546b00fe7
 R
 "example3/example3_5/methods/add.py,7\3\73bb30ff7e191ce5a9fef77a436adf31fa69a937
 _
