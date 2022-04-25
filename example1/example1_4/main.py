@@ -8,5 +8,5 @@ function = get_function(operator_sign) # вызов функции аналог�
 result = function(a, b)
 print(result)
 
-# этот код НЕ сломается
+# этот код работает
 print(add(1, 2))

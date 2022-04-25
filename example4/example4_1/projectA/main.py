@@ -1,4 +1,4 @@
-from test_functions.get_function import get_function
+from functions.get_function import get_function
 
 a = float(input('Введите первое число: '))
 operator_sign = input('Введите знак операции: ')

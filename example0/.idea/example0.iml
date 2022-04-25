@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="example1_0" />
+    <orderEntry type="module" module-name="example1_1" />
+    <orderEntry type="module" module-name="example1_2" />
+    <orderEntry type="module" module-name="example1_3" />
+    <orderEntry type="module" module-name="example1_4" />
+    <orderEntry type="module" module-name="example1_5" />
+    <orderEntry type="module" module-name="example1_6" />
+    <orderEntry type="module" module-name="example2_0" />
+    <orderEntry type="module" module-name="example2_1" />
+    <orderEntry type="module" module-name="example2_2" />
+    <orderEntry type="module" module-name="example2_3" />
+    <orderEntry type="module" module-name="example3_0" />
+    <orderEntry type="module" module-name="example3_1" />
+    <orderEntry type="module" module-name="example3_2" />
+    <orderEntry type="module" module-name="example3_3" />
+    <orderEntry type="module" module-name="example3_4" />
+    <orderEntry type="module" module-name="example3_5" />
+  </component>
+</module>
