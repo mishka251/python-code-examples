@@ -8,5 +8,5 @@ function = get_function.get_function(operator_sign)  # вызываем мето
 result = function(a, b)
 print(result)
 
-# Пример ПЛОХОГО кода - вызов метода add из модуля get_function,
+# Пример ПЛОХОГО кода - вызов метода add из модуля get_function, хотя add там только импортируется, а определена в другом
 print(get_function.add(1, 2))
