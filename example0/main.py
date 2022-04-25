@@ -11,18 +11,18 @@ def sub(a, b):
     return a - b
 
 
-def get_method(operator):
-    method = None
+def get_function(operator):
+    function = None
     if operator == '+':
-        method = add
+        function = add
     elif operator == '-':
-        method = sub
+        function = sub
 
-    if method is None:
+    if function is None:
         raise ValueError('Метод не найден')
-    return method
+    return function
 
 
-method = get_method(operator_sign)
-result = method(a, b)
+calculate_function = get_function(operator_sign)
+result = calculate_function(a, b)
 print(result)
