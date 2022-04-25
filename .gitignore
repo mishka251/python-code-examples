@@ -1,25 +1,25 @@
 /example5/example5_1/build/
 /example5/example5_1/dist/
-/example5/example5_1/mishka251_test_methods.egg-info/
+/example5/example5_1/mishka251_test_functions.egg-info/
 /example5/example5_1/venv/
-!/example5/example5_2/methods/build/
+!/example5/example5_2/functions/build/
 
-!/example5/example5_2/methods/dist/
+!/example5/example5_2/functions/dist/
 
-!/example5/example5_2/methods/mishka251_test_methods_namespace.egg-info/
-!/example5/example5_2/methods_extra/build/
+!/example5/example5_2/functions/mishka251_test_functions_namespace.egg-info/
+!/example5/example5_2/functions_extra/build/
 
-!/example5/example5_2/methods_extra/dist/
+!/example5/example5_2/functions_extra/dist/
 
-!/example5/example5_2/methods_extra/mishka251_test_methods_namespace_extra.egg-info/
+!/example5/example5_2/functions_extra/mishka251_test_functions_namespace_extra.egg-info/
 !/example5/example5_2/project/venv/
 /example5/example5_2/project/venv/
-/example5/example5_2/methods_extra/build/
-/example5/example5_2/methods_extra/dist/
-/example5/example5_2/methods_extra/mishka251_test_methods_namespace_extra.egg-info/
-/example5/example5_2/methods/build/
-/example5/example5_2/methods/dist/
-/example5/example5_2/methods/mishka251_test_methods_namespace.egg-info/
-/example5/example5_3/methods/mishka251_test_methods_namespace.egg-info/
-/example5/example5_3/methods_extra/mishka251_test_methods_namespace_extra.egg-info/
+/example5/example5_2/functions_extra/build/
+/example5/example5_2/functions_extra/dist/
+/example5/example5_2/functions_extra/mishka251_test_functions_namespace_extra.egg-info/
+/example5/example5_2/functions/build/
+/example5/example5_2/functions/dist/
+/example5/example5_2/functions/mishka251_test_functions_namespace.egg-info/
+/example5/example5_3/functions/mishka251_test_functions_namespace.egg-info/
+/example5/example5_3/functions_extra/mishka251_test_functions_namespace_extra.egg-info/
 /example5/example5_3/project/venv/

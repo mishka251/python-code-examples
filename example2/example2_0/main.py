@@ -1,9 +1,9 @@
-from methods.get_method import get_method  # импортируем из модуля methods.get_method функцию get_method
+from functions.get_function import get_function  # импортируем из модуля functions.get_function функцию get_function
 
 a = float(input('Введите первое число: '))
 operator_sign = input('Введите знак операции: ')
 b = float(input('Введите второе число: '))
 
-method = get_method(operator_sign)
-result = method(a, b)
+function = get_function(operator_sign)
+result = function(a, b)
 print(result)

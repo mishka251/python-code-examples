@@ -1,1 +1,1 @@
-from .get_method import get_method
+from .get_function import get_function

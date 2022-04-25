@@ -2,7 +2,7 @@
 
 ## Предположим, мы решили добавить деление с проверкой на 0 и вынести каждый метод в отдельный модуль
 
-Файл `methods.py` разделен на файлы `methods/add.py`, `methods/sub.py`, `methods/mul.py`, `methods/get_method.py`, добавлен файл `methods/div.py`
+Файл `functions.py` разделен на файлы `functions/add.py`, `functions/sub.py`, `functions/mul.py`, `functions/get_function.py`, добавлен файл `functions/div.py`
 
 
 

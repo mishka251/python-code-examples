@@ -10,15 +10,15 @@ def mul(a, b):
     return a * b
 
 
-def get_method(operator):
-    method = None
+def get_function(operator):
+    function = None
     if operator == '+':
-        method = add
+        function = add
     elif operator == '-':
-        method = sub
+        function = sub
     elif operator == '*':
-        method = mul
+        function = mul
 
-    if method is None:
+    if function is None:
         raise ValueError('Метод не найден')
-    return method
+    return function

@@ -1,20 +1,20 @@
 from .add import add # пример относительного импорта
-from methods.sub import sub # пример абсолютного импорта
+from functions.sub import sub # пример абсолютного импорта
 from .mul import mul
 from .div import div
 
 
-def get_method(operator):
-    method = None
+def get_function(operator):
+    function = None
     if operator == '+':
-        method = add
+        function = add
     elif operator == '-':
-        method = sub
+        function = sub
     elif operator == '*':
-        method = mul
+        function = mul
     elif operator == '/':
-        method = div
+        function = div
 
-    if method is None:
+    if function is None:
         raise ValueError('Метод не найден')
-    return method
+    return function

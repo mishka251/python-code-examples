@@ -4,17 +4,17 @@ from test_mthods.mul import mul
 from test_mthods.div import div
 
 
-def get_method(operator):
-    method = None
+def get_function(operator):
+    function = None
     if operator == '+':
-        method = add
+        function = add
     elif operator == '-':
-        method = sub
+        function = sub
     elif operator == '*':
-        method = mul
+        function = mul
     elif operator == '/':
-        method = div
+        function = div
 
-    if method is None:
+    if function is None:
         raise ValueError('Метод не найден')
-    return method
+    return function

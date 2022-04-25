@@ -1,1 +1,1 @@
-import methods.get_method
+import functions.get_function

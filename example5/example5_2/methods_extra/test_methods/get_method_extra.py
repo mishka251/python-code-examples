@@ -1,8 +1,8 @@
-from test_methods.get_method import get_method
-from test_methods.pow import pow
+from test_functions.get_function import get_function
+from test_functions.pow import pow
 
 
-def get_method_extra(operator):
+def get_function_extra(operator):
     if operator == '**':
         return pow
-    return get_method(operator)
+    return get_function(operator)
