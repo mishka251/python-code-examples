@@ -1,4 +1,4 @@
-from functions import *  # импортируем всё из файла functions/__init__
+from functions import *  # импортируем всё из файла functions/__init__, но не все модули пакета functions
 
 a = float(input('Введите первое число: '))
 operator_sign = input('Введите знак операции: ')

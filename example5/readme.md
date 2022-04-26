@@ -5,9 +5,10 @@
 1. Зарегистрироваться на https://pypi.org/
 2. Создать локально проект с файлом setup.py
 3. Подготовить проект к публикации командой `python setup.py sdist bdist_wheel`
-4. Опубликовать проект командой `twine upload --repository testpypi dist/*`.
 
-    Примечание: может потребоваться установка twine `pip install twine` 
+    Примечание: может потребоваться установка дополнительных зависимостей `python3 -m pip install --user --upgrade setuptools wheel twine`
+
+4. Опубликовать проект командой `twine upload --repository testpypi dist/*`.
 5. Проверить, что проект появился на pypi и проверить возможность его установки командой `pip install <название проекта>`
 
 Примечания:

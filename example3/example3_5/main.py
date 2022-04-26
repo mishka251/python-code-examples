@@ -1,12 +1,9 @@
-import functions  # Также не рабочий пример, т.к. из namespace package не получается импортировать модуль
-from functions.add import add
+import functions
 
 a = float(input('Введите первое число: '))
 operator_sign = input('Введите знак операции: ')
 b = float(input('Введите второе число: '))
 
-function = functions.get_function(operator_sign)  # здесь будет function.get_function - уже функция, т.к. она импортирована в __init__
+function = functions.get_function(operator_sign)  # за счёт импорта в __init__ пример рабочий
 result = function(a, b)
 print(result)
-
-print(add(1, 2))

@@ -1,5 +1,5 @@
-from functions.add import add # пример относительного импорта
-from functions.sub import sub # пример абсолютного импорта
+from functions.add import add
+from functions.sub import sub
 from functions.mul import mul
 from functions.div import div
 

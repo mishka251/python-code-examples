@@ -1,8 +1,9 @@
-# Пример второй. Импорт из папки с кодом(пакет пространства имён)
+# Пример второй.
+# Импорт из папки с кодом(пакет пространства имён)
 
 ## Предположим, мы решили добавить деление с проверкой на 0 и вынести каждый метод в отдельный модуль
 
-Файл `functions.py` разделен на файлы `functions/add.py`, `functions/sub.py`, `functions/mul.py`, `functions/get_function.py`, добавлен файл `functions/div.py`
+Файл `functions.py` из предыдущих примеров разделен на файлы `functions/add.py`, `functions/sub.py`, `functions/mul.py`, `functions/get_function.py`, добавлен файл `functions/div.py`
 
 
 

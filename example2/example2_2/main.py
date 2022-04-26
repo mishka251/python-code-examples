@@ -1,4 +1,4 @@
-from functions import *  # импортируем всех модулей из пакета functions
+from functions import *  # импорт всех модулей из пакета functions - для ППИ это не работает
 
 a = float(input('Введите первое число: '))
 operator_sign = input('Введите знак операции: ')
